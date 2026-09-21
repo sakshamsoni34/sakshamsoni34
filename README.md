@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saksham Soni 👋
+# Hi, I'm Saksham Soni
 
 ### AI & ML Engineer | GenAI • LLMs • RAG | Full-Stack Developer
 
