@@ -102,6 +102,46 @@ A full-stack AI system built around **intelligent agents** and real-time LLM int
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Database Documentation Management System
+
+A centralized system for organizing and managing **database documentation** across teams, built during my internship at APL Logistics VASCOR Automotive.
+
+**Features**
+- Centralized documentation repository
+- Structured schema & metadata tracking
+- Search & version history
+- Role-based access control
+
+**Stack**
+
+![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![React](https://img.shields.io/badge/-React-1a1a2e?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-1a1a2e?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-1a1a2e?style=flat-square)
+
+[View Project →](https://github.com/sakshamsoni34)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏷️ Asset Entry Management System
+
+A tool for streamlining **asset entry and tracking** workflows, developed as part of the Enterprise Asset Tracking System at APL Logistics VASCOR Automotive.
+
+**Features**
+- Bulk & manual asset entry
+- Asset-transfer workflow automation
+- Real-time inventory validation
+- Excel bulk-upload support
+
+**Stack**
+
+![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![React](https://img.shields.io/badge/-React-1a1a2e?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-1a1a2e?style=flat-square) ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-1a1a2e?style=flat-square)
+
+[View Project →](https://github.com/sakshamsoni34)
+
+</td>
+</tr>
 </table>
 
 ---
