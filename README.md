@@ -32,26 +32,77 @@ Currently working as a **Software Engineer Intern at APL Logistics VASCOR Automo
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,sql,nextjs,react,fastapi,mysql" />
-</p>
+**Languages**
 
-**Languages:** Python, C, Java, JavaScript, SQL
-**Frameworks:** Next.js, React, FastAPI, LangChain, Scikit-learn
-**Databases:** MySQL, Vector Databases
-**AI/ML:** Generative AI, LLM Integration, RAG, AI Agents
+<img src="https://skillicons.dev/icons?i=python,c,java,js,mysql" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,mysql" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=sklearn" />
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1a1a2e?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-1a1a2e?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI%20Agents-1a1a2e?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1a1a2e?style=flat-square) ![Generative AI](https://img.shields.io/badge/Generative%20AI-1a1a2e?style=flat-square)
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 [AI PDF Chatbot](https://github.com/sakshamsoni34)
-A full-stack RAG assistant for interacting with PDF documents — featuring context-aware vector search, Google OAuth & JWT authentication, and automated email/SMS notifications.
-`Next.js` `FastAPI` `RAG` `Hugging Face` `MySQL` `Tailwind CSS`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤝 [Multi-Agent Research & Execution System](https://github.com/sakshamsoni34)
-An AI system built around intelligent agents and real-time LLM interactions, with a node-based visual workflow editor, embedded browser IDE, and interactive 3D visualizations.
-`Next.js` `FastAPI` `Mistral API` `Three.js` `Zustand`
+### 🤖 AI PDF Chatbot
+
+A full-stack **Retrieval-Augmented Generation (RAG) assistant** for interacting with PDF documents.
+
+**Features**
+- PDF upload & processing
+- Context-aware vector search
+- RAG-based question answering
+- Google OAuth & JWT authentication
+- Email & SMS notifications
+
+**Stack**
+
+![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-1a1a2e?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-1a1a2e?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-1a1a2e?style=flat-square)
+
+[View Project →](https://github.com/sakshamsoni34)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Multi-Agent Research & Execution System
+
+A full-stack AI system built around **intelligent agents** and real-time LLM interactions.
+
+**Features**
+- LLM-powered conversational agent
+- Multi-agent workflow architecture
+- Real-time asynchronous streaming
+- Node-based visual workflow editor
+- Embedded browser IDE
+- Interactive 3D visualizations
+
+**Stack**
+
+![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square) ![Mistral API](https://img.shields.io/badge/-Mistral%20API-1a1a2e?style=flat-square) ![Three.js](https://img.shields.io/badge/-Three.js-1a1a2e?style=flat-square) ![Zustand](https://img.shields.io/badge/-Zustand-1a1a2e?style=flat-square)
+
+[View Project →](https://github.com/sakshamsoni34)
+
+</td>
+</tr>
+</table>
 
 ---
 
