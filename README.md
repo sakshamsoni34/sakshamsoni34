@@ -26,7 +26,7 @@ I'm a Computer Science & Engineering student at Dronacharya College of Engineeri
 - 🤝 AI Agents & Multi-Agent Systems
 - 🗄️ Databases (SQL & Vector DBs)
 
-Currently working as a **Software Engineer Intern at APL Logistics VASCOR Automotive Pvt. Ltd.**, building an enterprise asset tracking system.
+
 
 ---
 
@@ -77,7 +77,7 @@ A full-stack **Retrieval-Augmented Generation (RAG) assistant** for interacting 
 
 ![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-1a1a2e?style=flat-square) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-1a1a2e?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-1a1a2e?style=flat-square)
 
-[View Project →](https://github.com/sakshamsoni34)
+[View Project →](https://github.com/sakshamsoni34/AI_Pdf_Chatbot)
 
 </td>
 <td width="50%" valign="top">
@@ -98,7 +98,7 @@ A full-stack AI system built around **intelligent agents** and real-time LLM int
 
 ![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square) ![Mistral API](https://img.shields.io/badge/-Mistral%20API-1a1a2e?style=flat-square) ![Three.js](https://img.shields.io/badge/-Three.js-1a1a2e?style=flat-square) ![Zustand](https://img.shields.io/badge/-Zustand-1a1a2e?style=flat-square)
 
-[View Project →](https://github.com/sakshamsoni34)
+[View Project →](https://github.com/sakshamsoni34/MARE)
 
 </td>
 </tr>
@@ -119,7 +119,6 @@ A centralized system for organizing and managing **database documentation** acro
 
 ![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![React](https://img.shields.io/badge/-React-1a1a2e?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-1a1a2e?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-1a1a2e?style=flat-square)
 
-[View Project →](https://github.com/sakshamsoni34)
 
 </td>
 <td width="50%" valign="top">
@@ -138,7 +137,6 @@ A tool for streamlining **asset entry and tracking** workflows, developed as par
 
 ![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![React](https://img.shields.io/badge/-React-1a1a2e?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-1a1a2e?style=flat-square) ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-1a1a2e?style=flat-square)
 
-[View Project →](https://github.com/sakshamsoni34)
 
 </td>
 </tr>
@@ -159,7 +157,7 @@ A **machine learning-based system** that predicts the likelihood of diseases fro
 
 ![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square) ![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-1a1a2e?style=flat-square) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-1a1a2e?style=flat-square)
 
-[View Project →](https://github.com/sakshamsoni34)
+[View Project →](https://github.com/sakshamsoni34/Disease_Prediction_System)
 
 </td>
 </tr>
@@ -169,7 +167,7 @@ A **machine learning-based system** that predicts the likelihood of diseases fro
 
 ## 💼 Experience
 
-**Software Engineer Intern — APL Logistics VASCOR Automotive Pvt. Ltd.** *(June 2026 – Present)*
+**Software Engineer Intern — APL Logistics VASCOR Automotive Pvt. Ltd.** *(June 2026 – August 2026)*
 Built an Enterprise Asset Tracking System — backend API routes for asset-transfer workflows, interactive inventory dashboards, Excel bulk-upload, and automated report generation.
 `Next.js` `React` `MySQL` `Tailwind CSS` `Shadcn UI` `Recharts`
 
@@ -184,12 +182,6 @@ Built an Enterprise Asset Tracking System — backend API routes for asset-trans
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sakshamsoni34&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamsoni34&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
 ---
 
