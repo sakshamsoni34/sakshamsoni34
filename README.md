@@ -148,7 +148,7 @@ A tool for streamlining **asset entry and tracking** workflows, developed as par
 
 ## 💼 Experience
 
-**Software Engineer Intern — APL Logistics VASCOR Automotive Pvt. Ltd.** *(June 2026 – Present)*
+**Software Engineer Intern — APL Logistics VASCOR Automotive Pvt. Ltd.** *(June 2026 – August 2026)*
 Built an Enterprise Asset Tracking System — backend API routes for asset-transfer workflows, interactive inventory dashboards, Excel bulk-upload, and automated report generation.
 `Next.js` `React` `MySQL` `Tailwind CSS` `Shadcn UI` `Recharts`
 
