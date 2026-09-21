@@ -26,8 +26,6 @@ I'm a Computer Science & Engineering student at Dronacharya College of Engineeri
 - 🤝 AI Agents & Multi-Agent Systems
 - 🗄️ Databases (SQL & Vector DBs)
 
-
-
 ---
 
 ## 🛠️ Tech Stack
@@ -119,7 +117,6 @@ A centralized system for organizing and managing **database documentation** acro
 
 ![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![React](https://img.shields.io/badge/-React-1a1a2e?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-1a1a2e?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-1a1a2e?style=flat-square)
 
-
 </td>
 <td width="50%" valign="top">
 
@@ -136,7 +133,6 @@ A tool for streamlining **asset entry and tracking** workflows, developed as par
 **Stack**
 
 ![Next.js](https://img.shields.io/badge/-Next.js-1a1a2e?style=flat-square) ![React](https://img.shields.io/badge/-React-1a1a2e?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-1a1a2e?style=flat-square) ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-1a1a2e?style=flat-square)
-
 
 </td>
 </tr>
@@ -160,6 +156,25 @@ A **machine learning-based system** that predicts the likelihood of diseases fro
 [View Project →](https://github.com/sakshamsoni34/Disease_Prediction_System)
 
 </td>
+<td width="50%" valign="top">
+
+### 🌾 Ruralix
+
+An **AI-driven hyper-local business advisory & financial structuring assistant** for rural micro-entrepreneurs, delivered via WhatsApp/SMS/IVR for accessibility.
+
+**Features**
+- Voice & vernacular text input with STT/TTS
+- Hyper-local market price & weather enrichment
+- AI-powered micro-bookkeeping & cash flow prediction
+- Credit readiness scoring for micro-loans
+- Pricing & value-addition advisory in native dialect
+
+**Stack**
+
+![Python](https://img.shields.io/badge/-Python-1a1a2e?style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1a2e?style=flat-square) ![Gemini](https://img.shields.io/badge/-Google%20Gemini-1a1a2e?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a1a2e?style=flat-square) ![Vector DB](https://img.shields.io/badge/-Vector%20DB-1a1a2e?style=flat-square) ![Bhashini API](https://img.shields.io/badge/-Bhashini%20API-1a1a2e?style=flat-square)
+
+[View Project →](https://github.com/sakshamsoni34/RURALIX)
+</td>
 </tr>
 </table>
 
@@ -180,10 +195,6 @@ Built an Enterprise Asset Tracking System — backend API routes for asset-trans
 - Introduction to Deep Learning — Infosys
 - Electronics & ICT Academy — NIT Patna
 
----
-
-
----
 
 <div align="center">
 
